@@ -2,3 +2,4 @@
 $ fixed link on my contact us
 S changed body color
 $ changed color on body
+$ footer link color changed
